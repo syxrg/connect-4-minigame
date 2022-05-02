@@ -1,7 +1,7 @@
 # [Connect Four]
 
 Author: Serena Gong
-
+ 
 ----
 
 Idea
