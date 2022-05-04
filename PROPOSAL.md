@@ -1,7 +1,7 @@
 # [Connect Four]
 
 Author: Serena Gong
- 
+
 ----
 
 Idea
@@ -14,7 +14,7 @@ yellow game tokens, and a sign indicating which player's turn it is.
 Although I do not have particular background knowledge for this project, I am interested in creating it as I have played
 Connect 4 many times. Because of this, I am confident in my understanding of the game which will allow me to correctly
 implement the structure and logic. I used to play this game a lot in my childhood, so I am excited to be able to write 
-code to create this project!  hi hi 
+code to create this project! 
 
 Planned Timeline
 - 
