@@ -18,10 +18,9 @@ cinder_app_main.cc.
 ### Game Graphics
 
 ![Start Up Page](start_up.png)
-![Board] (board.png)
-![Gameplay] (gameplay.png)
-![Replay] (replay.png)
-
+![Board](board.png)
+![Gameplay](gameplay.png)
+![Replay](replay.png)
 
 ### **Vision**
 
