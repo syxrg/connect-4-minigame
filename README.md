@@ -14,7 +14,7 @@ This is a recreation of the classic two player game _Connect 4_ game using C++ a
 To build this project, ensure that a suitable IDE is set up for C++ and the Cinder library is installed. Next, clone this 
 project's file through this github repository. Finally, execute this game thorugh 
 cinder_app_main.cc. 
-
+ 
 # Test
 
 ![Test](start up page.png)
