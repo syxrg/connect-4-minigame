@@ -5,16 +5,19 @@ This is a recreation of the classic two player game _Connect 4_ game using C++ a
 
 ###**Gameplay**
 * This game requires 2 players.
-* Press left or right key to switch between columns
-* Press enter to release checker into column
+* Click to release checker into column
+* To win, you must connect 4 checkers in a row, column, or diagonal  
 * When game is won or tied, press play again button to play again
-* Use scoreboard to track the number of wins by players
 
 
 ### **Build Instructions**
-To build this project, install the required libraries: openFrameworks and ofSoundPlayer.
-Next, clone this project's files through this github repository. Then use project generator in openFrameworks to create 
-a new project via the cloned repository. Finally, open up the project on a suitable IDE and run the programme to start the game. 
+To build this project, ensure that a suitable IDE is set up for C++ and the Cinder library is installed. Next, clone this 
+project's file through this github repository. Finally, execute this game thorugh 
+cinder_app_main.cc. 
+
+# Test
+
+![Test](start up page.png)
 
 ### **Vision**
 
