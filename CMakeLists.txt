@@ -55,7 +55,8 @@ include("${CINDER_PATH}/proj/cmake/modules/cinderMakeApp.cmake")
 
 list(APPEND SOURCE_FILES
         src/Board.cpp
-        src/connect_four_app.cpp)
+        src/connect_four_app.cpp
+        src/GameTesting.cpp)
 
 
 
