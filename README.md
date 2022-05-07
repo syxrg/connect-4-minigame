@@ -3,7 +3,7 @@ This is a recreation of the classic two player game _Connect 4_ game using C++ a
 
 ----
 
-###**Gameplay**
+### **Gameplay**
 * This game requires 2 players.
 * Click to release checker into column
 * To win, you must connect 4 checkers in a row, column, or diagonal  
@@ -15,9 +15,13 @@ To build this project, ensure that a suitable IDE is set up for C++ and the Cind
 project's file through this github repository. Finally, execute this game thorugh 
 cinder_app_main.cc. 
  
-# Test
+### Game Graphics
 
-![Test](test.png)
+![Start Up Page](start_up.png)
+![Board] (board.png)
+![Gameplay] (gameplay.png)
+![Replay] (replay.png)
+
 
 ### **Vision**
 
