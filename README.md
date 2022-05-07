@@ -17,7 +17,7 @@ cinder_app_main.cc.
  
 # Test
 
-![Test](start up page.png)
+![Test](test.png)
 
 ### **Vision**
 
